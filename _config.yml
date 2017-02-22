@@ -1,0 +1,8 @@
+description: Look who's pushing now!
+baseurl: ""
+url: https://lookwhospushingnow.com
+git:
+  branch: master
+exclude:
+  - README.md
+  - CNAME
